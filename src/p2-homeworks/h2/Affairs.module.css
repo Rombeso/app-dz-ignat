@@ -1,0 +1,15 @@
+.affair {
+display: flex;
+
+}
+
+.item {
+    margin: 10px;
+    width: 100px;
+}
+
+.buttons {
+    margin: 10px;
+    width: 50px;
+}
+
