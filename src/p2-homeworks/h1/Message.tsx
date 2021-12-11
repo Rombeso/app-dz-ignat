@@ -11,9 +11,6 @@ type MessagePropstype = {
 export function Message(props: MessagePropstype) {
     return (
         <div className={s.message}>
-            {/*<div className={s.avatar}>*/}
-
-            {/*</div>*/}
             <img className={s.img} src={props.avatar}></img>
             <div className={s.angle}></div>
             <div className={s.text}>
