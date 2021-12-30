@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ccc1a79-1516-4ee4-810b-1d4ade3b5c1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/JuniorPlus.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h6/common/c4-SuperEditableSpan/SuperEditableSpan.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelector.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h1/HW1.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/HW1.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/HW5.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/HW5.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/Routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Routes.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/JuniorPlus.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/JuniorPlus.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/PreJunior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/PreJunior.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h6/HW6.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h6/HW6.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h6/common/c4-SuperEditableSpan/SuperEditableSpan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h6/common/c4-SuperEditableSpan/SuperEditableSpan.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c6-SuperRadio/SuperRadio.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c6-SuperRadio/SuperRadio.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <recent name="D:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h5\pages" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="Message.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -63,8 +61,19 @@
       <test-file value="$PROJECT_DIR$/src/p2-homeworks/h1/tests/Message.test.tsx" />
       <method v="2" />
     </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.deploy" />
         <item itemvalue="Jest.Message.test.tsx" />
       </list>
     </recent_temporary>
@@ -87,7 +96,10 @@
       <workItem from="1637846756458" duration="4351000" />
       <workItem from="1638961910589" duration="11462000" />
       <workItem from="1638974212087" duration="4859000" />
-      <workItem from="1639225119934" duration="7138000" />
+      <workItem from="1639225119934" duration="7941000" />
+      <workItem from="1639317956062" duration="18000" />
+      <workItem from="1639747749238" duration="3539000" />
+      <workItem from="1640869218981" duration="6636000" />
     </task>
     <task id="LOCAL-00001" summary="Added .idea to ignore.">
       <created>1638963843909</created>
@@ -96,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638963843909</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added menu in the five lesson.">
+      <created>1639247813272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639247813272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added .idea to ignore." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added .idea to ignore." />
+    <MESSAGE value="Added menu in the five lesson." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added menu in the five lesson." />
   </component>
 </project>

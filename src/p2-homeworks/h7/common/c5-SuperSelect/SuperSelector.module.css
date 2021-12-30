@@ -1,0 +1,19 @@
+.selector {
+    width: 100px;
+    padding: 5px;
+    color: blue;
+    margin-right: 30px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 75px;
+}
+
+/*.active {*/
+/*    */
+/*}*/
+
+.active:checked {
+    background-color: lightcoral;
+
+}

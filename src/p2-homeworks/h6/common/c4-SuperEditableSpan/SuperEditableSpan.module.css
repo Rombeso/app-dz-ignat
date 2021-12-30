@@ -1,0 +1,14 @@
+.edSpan {
+    color: #0f7afc;
+    border-bottom: 1px solid;
+    border-bottom-color: rgba(15, 122, 252, 0.2);
+    margin-left: 10px;
+    font-weight: bold;
+    cursor: pointer ;
+}
+
+.edSpan:hover {
+    color:#cf0000;
+    border-bottom-color: rgba(208, 64, 0, 0.2);
+
+}
