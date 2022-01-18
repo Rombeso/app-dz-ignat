@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ccc1a79-1516-4ee4-810b-1d4ade3b5c1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/HW8.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h8/HW8.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/HW8.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/homeWorkReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/homeWorkReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h9/Clock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h9/Clock.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +139,9 @@
       <workItem from="1639747749238" duration="3539000" />
       <workItem from="1640869218981" duration="7231000" />
       <workItem from="1640879617217" duration="648000" />
-      <workItem from="1641545599892" duration="7695000" />
+      <workItem from="1641545599892" duration="7823000" />
+      <workItem from="1641565249242" duration="26000" />
+      <workItem from="1642508608317" duration="7447000" />
     </task>
     <task id="LOCAL-00001" summary="Added .idea to ignore.">
       <created>1638963843909</created>
@@ -165,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640876047891</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed the 8 homework.">
+      <created>1641564272313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641564272313</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,11 +187,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added .idea to ignore." />
     <MESSAGE value="Added menu in the five lesson." />
     <MESSAGE value="Completed the 7 homework." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the 7 homework." />
+    <MESSAGE value="Completed the 8 homework." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the 8 homework." />
   </component>
 </project>
