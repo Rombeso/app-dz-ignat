@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ccc1a79-1516-4ee4-810b-1d4ade3b5c1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/loading-waiting.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c8-SuperDoubleRange/SuperDoubleRange.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/common/nouislider.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/HW10.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/HW10.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/loadingReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/loadingReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h11/HW11.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/HW11.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c8-SuperDoubleRange/SuperDoubleRange.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c8-SuperDoubleRange/SuperDoubleRange.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/JuniorPlus.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/JuniorPlus.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1yrIkUKdnNh1dRwwOQyCXvwMtqx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p2-homeworks/h10/bll" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p2-homeworks/h11/common" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -41,11 +51,12 @@
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
-    <property name="ts.external.directory.path" value="D:\front\dz-ignat\app-dz-ignat\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\front\dz-ignat\app-dz-ignat\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h11\common" />
       <recent name="D:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h10\bll" />
       <recent name="D:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h5\pages" />
     </key>
@@ -53,7 +64,7 @@
       <recent name="D:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h8" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.check age 18">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="Message.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -115,10 +126,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.deploy" />
         <item itemvalue="Jest.check age 18" />
         <item itemvalue="Jest.sort name down" />
         <item itemvalue="Jest.sort name up" />
-        <item itemvalue="npm.deploy" />
         <item itemvalue="Jest.Message.test.tsx" />
       </list>
     </recent_temporary>
@@ -151,7 +162,8 @@
       <workItem from="1642508608317" duration="7473000" />
       <workItem from="1642516241493" duration="91000" />
       <workItem from="1642666487582" duration="1347000" />
-      <workItem from="1643034076864" duration="3766000" />
+      <workItem from="1643034076864" duration="4838000" />
+      <workItem from="1643375545636" duration="12269000" />
     </task>
     <task id="LOCAL-00001" summary="Added .idea to ignore.">
       <created>1638963843909</created>
@@ -188,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642516131915</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed the 10 homework.">
+      <created>1643038183290</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643038183290</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +231,7 @@
     <MESSAGE value="Completed the 7 homework." />
     <MESSAGE value="Completed the 8 homework." />
     <MESSAGE value="Completed the 9 homework." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the 9 homework." />
+    <MESSAGE value="Completed the 10 homework." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the 10 homework." />
   </component>
 </project>
