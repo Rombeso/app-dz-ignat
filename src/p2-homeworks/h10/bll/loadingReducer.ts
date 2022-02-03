@@ -24,3 +24,4 @@ export const loadingAC = (loading: boolean)=> {
         pay_load: {loading},
     }as const
 }
+

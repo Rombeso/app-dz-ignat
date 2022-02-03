@@ -34,6 +34,8 @@ const SuperDoubleRange: React.FC<SuperDoubleRangePropsType> = (
 
 export default SuperDoubleRange
 
+// https://github.com/mmarkelov/react-nouislider
+
 // import React, {ChangeEvent, DetailedHTMLProps, InputHTMLAttributes} from 'react'
 // import s from "../c7-SuperRange/SuperRange.module.css";
 //
