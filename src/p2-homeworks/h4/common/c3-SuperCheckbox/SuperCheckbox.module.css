@@ -3,6 +3,8 @@ appearance: none;
     width: 20px;
     height: 20px;
     background-color: gold;
+    border-radius: 3px;
+    border: 1px solid;
 }
 
 .spanClassName {
@@ -10,6 +12,7 @@ appearance: none;
 }
 
 .checkbox:checked {
-    appearance: none;
+    /*appearance: none;*/
 background-color: black;
+
 }

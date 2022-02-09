@@ -18,16 +18,16 @@ function HW12() {
     const onChangeOption = (theme:string) => {
         dispatch(setThemeAC(theme))
     }
-    console.log(theme)
 
 
     return (
         <div className={s[theme]}>
             <hr/>
+            <div  >
             <span className={s[theme + '-text']}>
                 homeworks 12
             </span>
-
+            </div>
             {/*should work (должно работать)*/}
             <SuperSelect
                 options={themes}
