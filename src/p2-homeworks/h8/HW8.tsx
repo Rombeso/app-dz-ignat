@@ -1,7 +1,8 @@
 import React, {useState} from 'react'
 import {homeWorkReducer} from './bll/homeWorkReducer'
-import SuperButton from '../h4/common/c2-SuperButton/SuperButton'
+
 import s from './HW8.module.css'
+import SuperButton from "../h4/common/SuperButton/SuperButton";
 
 export type UserType = {
     _id: number,

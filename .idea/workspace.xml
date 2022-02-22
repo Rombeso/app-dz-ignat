@@ -5,18 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ccc1a79-1516-4ee4-810b-1d4ade3b5c1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h13/HW13.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h13/HW13.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h13/Request.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h13/RequestsAPI.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/SuperButton/SuperButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/SuperCheckbox/SuperCheckbox.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/SuperInputText/SuperInputText.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/JuniorPlus.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/JuniorPlus.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/HW10.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/HW10.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h13/Request.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h13/Request.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/HW4.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/HW4.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/HW4.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/HW4.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c1-SuperInputText/AlternativeSuperInputText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c1-SuperInputText/SuperInputText.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c1-SuperInputText/SuperInputText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/SuperInputText/SuperInputText.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/AlternativeSuperButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/SuperButton/SuperButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c3-SuperCheckbox/AlternativeSuperCheckbox.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/SuperCheckbox/SuperCheckbox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h6/HW6.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h6/HW6.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h6/common/c4-SuperEditableSpan/SuperEditableSpan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h6/common/c4-SuperEditableSpan/SuperEditableSpan.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h8/HW8.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/HW8.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h9/Clock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h9/Clock.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p2-homeworks/h13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../final-app" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -57,12 +66,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h4\common" />
       <recent name="C:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h13" />
       <recent name="C:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h11\common" />
       <recent name="D:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h10\bll" />
       <recent name="D:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h5\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h4\common" />
       <recent name="D:\front\dz-ignat\app-dz-ignat\src\p2-homeworks\h8" />
     </key>
   </component>
@@ -172,7 +183,10 @@
       <workItem from="1643897692380" duration="23000" />
       <workItem from="1644159831595" duration="95000" />
       <workItem from="1644159941849" duration="14000" />
-      <workItem from="1644395598897" duration="7356000" />
+      <workItem from="1644395598897" duration="8063000" />
+      <workItem from="1645535709197" duration="6991000" />
+      <workItem from="1645543275511" duration="561000" />
+      <workItem from="1645543852433" duration="4144000" />
     </task>
     <task id="LOCAL-00001" summary="Added .idea to ignore.">
       <created>1638963843909</created>
@@ -230,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643896470355</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Completed the 13 homework.">
+      <created>1644404579405</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644404579405</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +278,7 @@
     <MESSAGE value="Completed the 10 homework." />
     <MESSAGE value="Completed the 11 homework." />
     <MESSAGE value="Completed the 12 homework." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the 12 homework." />
+    <MESSAGE value="Completed the 13 homework." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the 13 homework." />
   </component>
 </project>

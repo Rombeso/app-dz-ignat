@@ -1,9 +1,10 @@
 import React from 'react'
-import SuperButton from '../h4/common/c2-SuperButton/SuperButton'
+
 import {useDispatch, useSelector} from "react-redux";
 import {InitType, loadingAC} from "./bll/loadingReducer";
 import {AppStoreType} from "./bll/store";
 import loadingImg from './../h10/bll/loading-waiting.gif'
+import SuperButton from "../h4/common/SuperButton/SuperButton";
 
 function HW10() {
     // useSelector, useDispatch

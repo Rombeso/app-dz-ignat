@@ -1,8 +1,9 @@
 import React, {useState} from "react";
-import SuperButton from "../h4/common/c2-SuperButton/SuperButton";
-import SuperCheckbox from "../h4/common/c3-SuperCheckbox/SuperCheckbox";
+
 import {API} from "./RequestsAPI";
 import s from "./HW13.module.css";
+import SuperButton from "../h4/common/SuperButton/SuperButton";
+import SuperCheckbox from "../h4/common/SuperCheckbox/SuperCheckbox";
 
 export const Request = () => {
     let [response, setResponse] = useState('')

@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
-import SuperButton from '../h4/common/c2-SuperButton/SuperButton'
+import SuperButton from "../h4/common/SuperButton/SuperButton";
+
 
 function Clock() {
     const [timerId, setTimerId] = useState<number>(0)
